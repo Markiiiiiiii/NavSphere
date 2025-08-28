@@ -48,6 +48,14 @@
               "description": "访问 www.evisa.gov.kh",
               "icon": "/assets/favicon_1756348163428.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756348381957_jaa3aqvn3",
+              "title": "🇯🇵日本电子签",
+              "href": "https://www.evisa.mofa.go.jp/index",
+              "description": "日本电子签",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.evisa.mofa.go.jp",
+              "enabled": true
             }
           ]
         },
