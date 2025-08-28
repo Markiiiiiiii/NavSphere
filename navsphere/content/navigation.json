@@ -32,7 +32,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756348099580_cqrs76tjl",
+              "title": "🇮🇳印度电子签",
+              "href": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+              "description": "印度电子签",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=indianvisaonline.gov.in",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "0d763fb7-f439-4804-af97-8b784c107b8e",
