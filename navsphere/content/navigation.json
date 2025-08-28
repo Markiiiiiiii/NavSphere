@@ -557,6 +557,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "0d763fb7-f439-4804-af97-8b784c107b8e",
+          "title": "欧洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
