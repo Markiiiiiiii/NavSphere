@@ -40,7 +40,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756347998897_gwenc7j7v",
+              "title": "🇹🇷土耳其电子签",
+              "href": "https://dtvgroup.com.tr/",
+              "description": "土耳其电子签，快速下签。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dtvgroup.com.tr",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "639ebeae-d5c1-4089-9be7-43faa4e59e10",
