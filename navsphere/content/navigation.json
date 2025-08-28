@@ -549,7 +549,16 @@
       "description": "全球电子签证国家官网",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "7d7c2ed1-7623-4d8e-8149-d9455d65f0f0",
+          "title": "亚洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
