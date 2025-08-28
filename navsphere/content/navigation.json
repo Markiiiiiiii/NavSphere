@@ -56,6 +56,14 @@
               "description": "日本电子签",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.evisa.mofa.go.jp",
               "enabled": true
+            },
+            {
+              "id": "site_1756348435191_ka7esb1pv",
+              "title": "🇳🇵尼泊尔电子签",
+              "href": "https://nepaliport.immigration.gov.np/entry-visa-processing",
+              "description": "尼泊尔电子签",
+              "icon": "/assets/favicon_1756348413791.png",
+              "enabled": true
             }
           ]
         },
