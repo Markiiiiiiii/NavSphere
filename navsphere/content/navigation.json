@@ -581,6 +581,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c6bd93e4-a22c-493d-b1c4-0d3adee91a5b",
+          "title": "南美洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
