@@ -73,6 +73,14 @@
               "description": "",
               "icon": "/assets/favicon_1756348123663.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756348332824_113p5mlzs",
+              "title": "🇷🇺俄罗斯电子签",
+              "href": "https://evisa.kdmid.ru/",
+              "description": "",
+              "icon": "/assets/favicon_1756348317760.png",
+              "enabled": true
             }
           ]
         },
