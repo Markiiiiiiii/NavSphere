@@ -541,6 +541,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756346855956",
+      "title": "电子签",
+      "icon": "LayoutGrid",
+      "description": "全球电子签证国家官网",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
