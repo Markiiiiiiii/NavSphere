@@ -589,6 +589,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "926ccc78-ccb7-4989-b59b-8f16398038df",
+          "title": "大洋洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
