@@ -40,6 +40,14 @@
               "description": "印度电子签",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=indianvisaonline.gov.in",
               "enabled": true
+            },
+            {
+              "id": "site_1756348179307_oyinqocs4",
+              "title": "🇰🇭柬埔寨电子签",
+              "href": "https://www.evisa.gov.kh/application_new",
+              "description": "访问 www.evisa.gov.kh",
+              "icon": "/assets/favicon_1756348163428.png",
+              "enabled": true
             }
           ]
         },
