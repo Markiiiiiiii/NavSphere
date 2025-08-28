@@ -565,6 +565,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "639ebeae-d5c1-4089-9be7-43faa4e59e10",
+          "title": "非洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
