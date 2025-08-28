@@ -106,7 +106,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756348573487_ayv11p6q8",
+              "title": "🇪🇹埃塞俄比亚电子签",
+              "href": "https://www.evisa.gov.et/",
+              "description": "访问 www.evisa.gov.et",
+              "icon": "/assets/favicon_1756348548772.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "fd3c142b-3b2a-4834-9894-29bc987d45ce",
