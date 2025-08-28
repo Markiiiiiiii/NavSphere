@@ -573,6 +573,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "fd3c142b-3b2a-4834-9894-29bc987d45ce",
+          "title": "北美洲",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
