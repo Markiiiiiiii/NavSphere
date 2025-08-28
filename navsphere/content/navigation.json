@@ -57,6 +57,14 @@
               "description": "土耳其电子签，快速下签。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dtvgroup.com.tr",
               "enabled": true
+            },
+            {
+              "id": "site_1756348141894_5xxubuptq",
+              "title": "🇺🇦乌克兰电子签",
+              "href": "https://visa.mfa.gov.ua/visa/index",
+              "description": "",
+              "icon": "/assets/favicon_1756348123663.ico",
+              "enabled": true
             }
           ]
         },
